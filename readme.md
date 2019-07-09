@@ -5,5 +5,7 @@ It's intended as an example of the type of content you can put in a mod. It's no
 To use, place in the following folder:
  
 Linux: ~/.local/share/possessionroguelike/mods/
+
 Windows: C:\Users\(YourUserName)\AppData\Roaming\possessionroguelike/mods
+
 Mac: ~/Library/Application Support/possessionroguelike/mods/
